@@ -1,0 +1,7 @@
+{
+  "source_commit": "4ca3fd9bc1f6f7e68f9c224d27a92eb121d35780",
+  "source_branch": "main",
+  "godot": "4.7.2.stable",
+  "threads": false,
+  "mobile_textures": true
+}
