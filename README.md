@@ -12,6 +12,6 @@ Open in a recent browser with WebGL 2 support. On iPhone Safari, landscape is re
 
 In **Settings → Pages**, choose **Deploy from a branch**, **main**, **/ (root)**, then Save. `.nojekyll` ensures the exported files are served directly.
 
-This is a manual build snapshot from `kohmir/Grimfold` **main** at commit `d5148dc2debaf635b9be315da864ceed580b97c4` (Merge pull request #15). See `build-info.json` for the exported build settings. Import, all 1035 rules checks, startup, and Web release export passed with Godot 4.7.2.
+This is a manual build snapshot from `kohmir/Grimfold` **main** at commit `636235e7a82ab61787ef3ba49663cebd9965f9ee` (Merge pull request #19). See `build-info.json` for the exported build settings. Import, all 1035 rules checks, additional Shop/relic/save-retry checks, startup, and Web release export passed with Godot 4.7.2.
 
 Future source changes require a new export and upload here.
