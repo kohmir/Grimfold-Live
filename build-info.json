@@ -1,5 +1,5 @@
 {
-  "source_commit": "636235e7a82ab61787ef3ba49663cebd9965f9ee",
+  "source_commit": "baac2c10e4ae54c93e289301f5acb7a186204503",
   "source_branch": "main",
   "godot": "4.7.2.stable",
   "threads": false,
